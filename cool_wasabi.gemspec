@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "This is a dummy gem warning you about wasabi"
   spec.description   = "wasabi does not need description"
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/kuldeep5432/cool_wasabi"
   spec.license       = "MIT"
   spec.required_ruby_version = ">= 2.4.0"
 
